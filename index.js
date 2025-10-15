@@ -1,2 +1,2 @@
-let seasons = [Summer, Fall, Winter, Spring,];
-document.getElementById("result").innerHTML = seasons;
+let seasons = [Summer, Fall, Winter and Spring,];
+document.getElementById("result").innerHTML = Fall;
